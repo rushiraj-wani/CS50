@@ -44,3 +44,5 @@ venv/
 # Compiled web assets (if doing CS50 Web)
 node_modules/
 *.log
+
+# This is gitignore file.
