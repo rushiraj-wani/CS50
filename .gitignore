@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+.venv/
+
+# C/C++ compiled files
+*.out
+*.o
+*.obj
+*.exe
+*.log
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# VSCode settings (if you're using it)
+.vscode/
+
+# CS50 specific
+*.db
+*.sqlite3
+*.bak
+*.bin
+*.csv
+*.sql
+*.trace
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Compiled web assets (if doing CS50 Web)
+node_modules/
+*.log
